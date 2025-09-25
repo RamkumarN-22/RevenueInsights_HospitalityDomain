@@ -170,5 +170,5 @@ For any queries or feedback, feel free to connect with me:
 
 - **Portfolio**: [Ramkumar – Data Analyst Portfolio](https://marked-unicorn-aef.notion.site/Ramkumar-Data-Analyst-Portfolio-27179b3fd86d80c6a194e9debe65e193)  
 - **GitHub**: [RamkumarN-22](https://github.com/RamkumarN-22)  
-- **LinkedIn**: (add your LinkedIn profile link here if you’d like)  
+
 
